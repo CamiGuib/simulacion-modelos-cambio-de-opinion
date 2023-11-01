@@ -3,8 +3,9 @@ Proyecto para la materia "Simulación de eventos discretos", UBA
 
 ## Descripción 
 En este proyecto se creó un modelo matemático para describir los cambios de opinión, en una sociedad de personas que interactúan entre si y con medios de comunicación masivos. Se hicieron distintos experimentos cómo por ejemplo, se vio qué pasa cuando a una sociedad de opiniones polarizadas está bajo influencia de medios polarizados, o qué pasa cuando hay un único medio de comunicación monopólico, etc. 
+
 A este sistema se lo pensó como un sistema de eventos discretos y se lo formalizó y modularizó usando DEVS (Discrete Event System Specification). 
-Para realizar la simulación se usó el simulador CD++ provisionado por los docentes de la materia. 
+Para realizar la simulación se usó el simulador CD++ provisto por los docentes de la materia. 
 
 ## Contenido
 - [Instalación_simulador.ipynb](./Instalación_simulador.ipynb): este es un notebook de Jupyter-lab donde está el paso a paso y todos los códigos necesarios para poder instalar el simulador CD++ necesario para poder correr las simulaciones del proyecto.
