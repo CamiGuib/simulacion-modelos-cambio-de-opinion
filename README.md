@@ -6,6 +6,7 @@ En este proyecto se creó un modelo matemático para describir los cambios de op
 
 A este sistema se lo pensó como un sistema de eventos discretos y se lo formalizó y modularizó usando DEVS (Discrete Event System Specification). 
 Para realizar la simulación se usó el simulador CD++ provisto por los docentes de la materia. 
+Los modelos se escribieron en C++.
 
 ## Contenido
 - [Instalación_simulador.ipynb](./Instalación_simulador.ipynb): este es un notebook de Jupyter-lab donde está el paso a paso y todos los códigos necesarios para poder instalar el simulador CD++ necesario para poder correr las simulaciones del proyecto.
